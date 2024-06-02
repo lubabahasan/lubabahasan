@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! I am Lubaba Hasan</h2>
+<h2 align="center"> $${\color{lightgreen} Hello there! I am Lubaba Hasan$$ </h2>
 <br />
 
 <!-- image - image link - image source -->

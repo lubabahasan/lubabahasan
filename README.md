@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Lubaba Hasan</h1>
 
-- 🌱 I’m currently learning **Python**
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif">
 
-- 📫 How to reach me **lubabahasan.official@gmail.com**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

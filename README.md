@@ -1,6 +1,9 @@
 <h2 align="center">Hello there! I am Lubaba Hasan</h2>
 
-<img align="center" alt="[Coding](https://mejwh.tumblr.com/)" width="800" src="https://64.media.tumblr.com/27a69fe9243c5d39d83e3a5a88a5c4ba/32a42778a011479f-c1/s1280x1920/04d5ce9ece88f84793d0e397ea6797f9bc768f2e.gifv">
+[![image](img)](src)
+
+img:"https://64.media.tumblr.com/27a69fe9243c5d39d83e3a5a88a5c4ba/32a42778a011479f-c1/s1280x1920/04d5ce9ece88f84793d0e397ea6797f9bc768f2e.gifv">
+src:"https://mejwh.tumblr.com/"
 
 - 🌱 I’m currently learning **Python**
 

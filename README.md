@@ -1,17 +1,16 @@
 <h1 align="center"> Hello there! I am Lubaba („• ֊ •„) </h1>
 <h3 align="center"> I'm a CSE undergraduate with great interest in Machine Learning, Data Analysis, and pixel graphics </h3>
-<br />
+<br/>
 
 <!-- image - image link - image source -->
 <img align="right" src="https://64.media.tumblr.com/27a69fe9243c5d39d83e3a5a88a5c4ba/32a42778a011479f-c1/s1280x1920/04d5ce9ece88f84793d0e397ea6797f9bc768f2e.gifv" alt="https://mejwh.tumblr.com/" width="600"/>
 <!--[![image](https://64.media.tumblr.com/27a69fe9243c5d39d83e3a5a88a5c4ba/32a42778a011479f-c1/s1280x1920/04d5ce9ece88f84793d0e397ea6797f9bc768f2e.gifv)](https://mejwh.tumblr.com/) -->
 
-
-<!-- - 🌱 I’m currently learning **Python** -->
+ ---
 
 <!-- Socials -->
 
-<h3 align="center"><br />Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/lubaba-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lubaba-hasan" height="25" width="25"/></a>
   <a href="https://www.facebook.com/practicalgrapefruit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="lubaba-hasan" height="25" width="25"/></a>
@@ -40,10 +39,14 @@
    <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
 </p>
 
-
-<!-- Stats 
-
+  ---
+<!-- Stats -->
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lubabahasan&show_icons=true&locale=en" alt="lubabahasan" />
-</p>  -->
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=lubabahasan&show_icons=true&locale=en" alt="lubabahasan" />-->
+
+  | ![](https://github-readme-stats.vercel.app/api?username=lubabahasan&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en&border_radius=16&card_width=420&number_format=short) | ![](https://github-readme-streak-stats.herokuapp.com/?user=lubabahasan&theme=nightowl&hide_border=false&card_width=420&border_radius=16) <br/> |
+  | :---: | :---: |
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lubabahasan&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=donut&border_radius=16)<br/>
+  ---
+</p>  
 

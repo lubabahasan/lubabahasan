@@ -44,7 +44,7 @@
 
   | ![](https://github-readme-stats.vercel.app/api?username=lubabahasan&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en&border_radius=16&card_width=420&number_format=short) | ![](https://github-readme-streak-stats.herokuapp.com/?user=lubabahasan&theme=nightowl&hide_border=false&card_width=420&border_radius=16) <br/> |
   | :---: | :---: |
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lubabahasan&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=donut&border_radius=16)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lubabahasan&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=donut&border_radius=16)<br/> | <img src="https://wakatime.com/share/@grapestfruit/8e2076df-6453-4367-9194-8fdca63f220b.svg" width="400"/> |
   ---
 </p>  
 
